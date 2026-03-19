@@ -63,3 +63,13 @@ Place all CSV files in a `/data` folder before running scripts.
 ## 💼 Resume Bullet
 
 Designed and implemented a PostgreSQL data pipeline analyzing 100K+ e-commerce transactions; built relational schema, performed data transformation, and generated business insights using advanced SQL (joins, window functions, cohort analysis).
+
+---
+
+## 📚 References
+
+- Olist Brazilian E-Commerce Dataset (Kaggle):  
+  https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce  
+
+- Exploratory Analysis Inspiration:  
+  https://www.kaggle.com/code/kabure/simple-eda-sales-and-customer-patterns/notebook
